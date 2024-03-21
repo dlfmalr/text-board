@@ -1,4 +1,4 @@
-package Java2;
+package Java2.base;
 
 import java.awt.*;
 import java.time.LocalDateTime;

@@ -1,11 +1,11 @@
-package Java;
+package Java2.domain;
 
 public class Article {
-    private int id; //번호
-    private String title; //제목
-    private String body; //내용
-    private int hit; //조회수
-    private String regDate; //등록날짜
+    private int id;
+    private String title;
+    private String body;
+    private int hit;
+    private String regDate;
 
     public Article() {}
 

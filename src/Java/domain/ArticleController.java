@@ -1,4 +1,6 @@
-package Java;
+package Java.domain;
+
+import Java.base.CommonUtil;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,6 +1,7 @@
-package Java;
+package Java.base;
 
-import java.util.ArrayList;
+import Java.domain.ArticleController;
+
 import java.util.Scanner;
 
 public class Board {
